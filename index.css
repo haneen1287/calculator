@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.calcultor{
+    height: 100px;
+    width: 200px;
+    background-color: grey;
+}
+
+.items{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button{
+    width: 50px;
+}
